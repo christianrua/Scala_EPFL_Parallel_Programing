@@ -1,0 +1,15 @@
+[0m[[0m[0mdebug[0m] [0m[0mThe reductions.LineOfSight$ has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(max,[Default]), UsedName(downsweep,[Default]), UsedName(upsweep,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0m[0mdebug[0m] [0m[0mFiles invalidated by inheriting from (external) reductions.LineOfSight$: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting direct dependencies of all classes transitively invalidated by inheritance.[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting classes that directly depend on (external) reductions.LineOfSight$.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of reductions.ReductionsSuite. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mThe reductions.ParallelParenthesesBalancing$ has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(ExtraBrackets,[Default]), UsedName(ExtBrack,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0m[0mdebug[0m] [0m[0mFiles invalidated by inheriting from (external) reductions.ParallelParenthesesBalancing$: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting direct dependencies of all classes transitively invalidated by inheritance.[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting classes that directly depend on (external) reductions.ParallelParenthesesBalancing$.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of reductions.ReductionsSuite. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNo changes[0m

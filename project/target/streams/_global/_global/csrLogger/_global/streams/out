@@ -1,0 +1,13 @@
+[debug] downloaded https://repo1.maven.org/maven2/org/scala-sbt/librarymanagement-ivy_2.12/1.2.4/librarymanagement-ivy_2.12-1.2.4.pom
+[debug] downloaded https://repo1.maven.org/maven2/org/scala-sbt/librarymanagement-core_2.12/1.2.4/librarymanagement-core_2.12-1.2.4.pom
+[debug] downloaded https://repo1.maven.org/maven2/org/scala-sbt/util-cache_2.12/1.2.2/util-cache_2.12-1.2.2.pom
+[debug] downloaded https://repo1.maven.org/maven2/org/scala-sbt/util-position_2.12/1.2.2/util-position_2.12-1.2.2.pom
+[debug] downloaded https://repo1.maven.org/maven2/org/scala-sbt/io_2.12/1.2.1/io_2.12-1.2.1.pom
+[debug] downloaded https://repo1.maven.org/maven2/com/eed3si9n/sjson-new-murmurhash_2.12/0.8.2/sjson-new-murmurhash_2.12-0.8.2.pom
+[debug] downloaded https://repo1.maven.org/maven2/org/scala-sbt/util-position_2.12/1.2.2/util-position_2.12-1.2.2.jar
+[debug] downloaded https://repo1.maven.org/maven2/org/scala-sbt/util-cache_2.12/1.2.2/util-cache_2.12-1.2.2.jar
+[debug] downloaded https://repo1.maven.org/maven2/org/scala-sbt/librarymanagement-core_2.12/1.2.4/librarymanagement-core_2.12-1.2.4.jar
+[debug] downloaded https://repo1.maven.org/maven2/com/eed3si9n/sjson-new-murmurhash_2.12/0.8.2/sjson-new-murmurhash_2.12-0.8.2.jar
+[debug] downloaded https://repo1.maven.org/maven2/org/scala-sbt/librarymanagement-ivy_2.12/1.2.4/librarymanagement-ivy_2.12-1.2.4.jar
+[debug] downloaded https://repo1.maven.org/maven2/com/typesafe/config/1.2.0/config-1.2.0.jar
+[debug] downloaded https://repo1.maven.org/maven2/org/scala-sbt/io_2.12/1.2.1/io_2.12-1.2.1.jar
